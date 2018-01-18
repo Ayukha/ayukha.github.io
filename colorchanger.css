@@ -1,0 +1,17 @@
+.container{
+	/*background: #ff3333;*/
+	text-align: center;
+	margin-top: 5000 px;
+
+}
+
+#top{
+	margin-bottom: 5000 px;
+}
+
+#text1{
+	background: #ffe6e6;
+	text-shadow: transparent;
+	padding: 100px 100px 100px 100px;
+	margin: 100px 100px 100px 100px;
+}
